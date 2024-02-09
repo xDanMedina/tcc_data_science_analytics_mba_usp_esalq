@@ -1,6 +1,6 @@
 ## **MBA Data Science & Analytics | USP/Esalq**
 # **_Inteligência de Negócio e automatização de "ETL" aplicados à gestão estratégica no ensino superior privado_**
-Script Python, bases de dados e relatório do Power BI Desktop referentes ao Trabalho de Conclusão de Curso de nome Inteligência de Negócio e automatização de "ETL" aplicados à gestão estratégica no ensino superior privado do MBA em Data Science &amp; Analytics da USP/Esalq.
+Script Python, bases de dados e relatório do Power BI Desktop referentes ao Trabalho de Conclusão de Curso nomeado _Inteligência de Negócio e automatização de "ETL" aplicados à gestão estratégica no ensino superior privado_ do MBA em Data Science &amp; Analytics da USP/Esalq.
 #
 > Desenvolvido por Daniel Molina Medina
 #
